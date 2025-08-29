@@ -35,7 +35,7 @@ This project analyzes job postings data to:
 ┣ 📄 README.md # Project documentation
 ┣ 📄 job_postings.csv # Raw job postings dataset
 ┣ 📄 job_skills.csv # skills dataset
-┗ 📄 merged_jobs.csv # Final merged dataset
+┗ 📄 job_summary.csv # Final summarized dataset
 
 ## 🖼️ Sample Visualizations
 Here are some example charts generated in this project:  
