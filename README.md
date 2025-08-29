@@ -33,7 +33,7 @@ This project analyzes job postings data to:
 ┣ 📄 job_market_analysis.ipynb # Main analysis notebook
 ┣ 📄 requirements.txt # Required libraries
 ┣ 📄 README.md # Project documentation
-┣ 📄 jobs_data.csv # Raw job postings dataset
+┣ 📄 job_postings.csv # Raw job postings dataset
 ┣ 📄 jobs_data_cleaned.csv # Cleaned dataset
 ┗ 📄 merged_jobs.csv # Final merged dataset
 
