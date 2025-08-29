@@ -34,7 +34,7 @@ This project analyzes job postings data to:
 ┣ 📄 requirements.txt # Required libraries
 ┣ 📄 README.md # Project documentation
 ┣ 📄 job_postings.csv # Raw job postings dataset
-┣ 📄 jobs_data_cleaned.csv # Cleaned dataset
+┣ 📄 job_skills.csv # skills dataset
 ┗ 📄 merged_jobs.csv # Final merged dataset
 
 ## 🖼️ Sample Visualizations
