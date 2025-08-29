@@ -48,3 +48,25 @@ Here are some example charts generated in this project:
   
 📌 **Overall Top Skills Distribution**  
 <img width="1490" height="833" alt="image" src="https://github.com/user-attachments/assets/31df4ff1-9dd4-4137-b395-f867e6fdb0ad" />
+
+
+🚀 How to Run
+
+Clone the repository:
+
+git clone https://github.com/your-username/Job-Market-Analysis.git
+
+
+Navigate to the project folder:
+
+cd Job-Market-Analysis
+
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+
+Open Jupyter Notebook and run the analysis:
+
+jupyter notebook
