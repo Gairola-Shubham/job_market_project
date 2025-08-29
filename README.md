@@ -50,10 +50,15 @@ Here are some example charts generated in this project:
 <img width="1490" height="833" alt="image" src="https://github.com/user-attachments/assets/31df4ff1-9dd4-4137-b395-f867e6fdb0ad" />
 
 
-🚀 How to Run
 
 ## 🚀 How to Run
 
 Clone the repository:
 ```bash
 git clone https://github.com/your-username/Job-Market-Analysis.git
+
+Navigate to the project folder:
+'''bash
+cd Job-Market-Analysis
+
+
