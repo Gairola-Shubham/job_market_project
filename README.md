@@ -52,18 +52,8 @@ Here are some example charts generated in this project:
 
 🚀 How to Run
 
+## 🚀 How to Run
+
 Clone the repository:
 ```bash
 git clone https://github.com/your-username/Job-Market-Analysis.git
-
-
-Navigate to the project folder:
-```bash
-cd Job-Market-Analysis
-```bash
-Install dependencies:
-```bash
-pip install -r requirements.txt
-Open Jupyter Notebook and run the analysis:
-```bash
-jupyter notebook
